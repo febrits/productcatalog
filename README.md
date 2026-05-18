@@ -1,7 +1,7 @@
 # ProductHub — E-Commerce Product Catalog
 ## 🌐 Live Demo
 
-https://productcatalog-phi.vercel.app
+febrits/notepad
 
 
 A modern, dark-themed e-commerce product catalog built with React 19, TypeScript, Vite, and Tailwind CSS v4.
